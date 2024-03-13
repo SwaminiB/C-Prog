@@ -1,0 +1,7 @@
+DBNAme = Sakshi
+
+
+DBPass = myPass
+DBServer =  
+DBUsername = Sakshi@123
+
