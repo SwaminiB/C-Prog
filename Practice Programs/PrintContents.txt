@@ -1,0 +1,2 @@
+
+File handling in C stores data of our program in our local store, which can be used at any time because as the execution of a program completes, our data is lost. Therefore, we need to save our data in any file form - text or binary files.

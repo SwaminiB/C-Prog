@@ -1,0 +1,10 @@
+C is developed by Dennis Ritchie in the year 1972 at Bell Laboratories(USA).
+It is a General-purpose, Structured, Machine Independent, Simple and Flexible programming language. 
+It was mainly developed as a system programming language to write an operating system
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
